@@ -80,7 +80,7 @@ function App() {
 
         <div className="divcon">
           <img src="Vector 35.png" alt="Outer" className="dim1" />
-          <img src="vector (4).png" alt="Inner" className="dim2" />
+          <img src="Vector (4).png" alt="Inner" className="dim2" />
         </div>
 
         <div className="ellipse67">
