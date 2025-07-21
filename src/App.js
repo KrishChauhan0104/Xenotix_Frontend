@@ -73,10 +73,10 @@ function App() {
         <img src="Frame 62.png" className="Frame62" alt="Frame 62" />
         <img src="Frame 64.png" className="Frame64" alt="Frame 64" />
         <img src="Frame 61.png" className="Frame61" alt="Frame 61" />
-        <img src="Image 10.png" className="image10" alt="Frame" />
-        <img src="Image 10.png" className="image11" alt="Frame" />
-        <img src="Image 10.png" className="image12" alt="Frame" />
-        <img src="Image 9.png" className="image9" alt="Frame" />
+        <img src="image 10.png" className="image10" alt="Frame" />
+        <img src="image 10.png" className="image11" alt="Frame" />
+        <img src="image 10.png" className="image12" alt="Frame" />
+        <img src="image 9.png" className="image9" alt="Frame" />
 
         <div className="divcon">
           <img src="Vector 35.png" alt="Outer" className="dim1" />
